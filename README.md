@@ -29,11 +29,11 @@ Internet is needed for first-time package installation. Data are already include
 ## Evaluation documents
 
 - [PowerPoint presentation](docs/Insurance_Charge_Predictor_Presentation.pptx)
-- [70-page final report with project screenshots](docs/Insurance_Charge_Predictor_Report.docx)
+- [30-page final report with project screenshots](docs/Insurance_Charge_Predictor_Report.docx)
 - [Explanation from scratch](reports/EXPLAINED_FROM_SCRATCH.md)
 - [Viva questions and demo guide](reports/VIVA_AND_DEMO.md)
 
-The report contains 70 pages, including five application screenshots and diagnostic charts. Footer numbering starts at 1 on Chapter 1; the seven front-matter pages are unnumbered. Organisation, mentor, semester, and internship dates are editable placeholders to complete before submission.
+The report contains 30 pages, including five application screenshots and diagnostic charts. The clickable GitHub repository link is included in Appendix D. Footer numbering starts at 1 on Chapter 1; the seven front-matter pages are unnumbered. Organisation, mentor, semester, and internship dates are editable placeholders to complete before submission.
 
 ## What to demonstrate
 
