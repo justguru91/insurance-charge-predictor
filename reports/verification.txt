@@ -1,0 +1,5 @@
+PASS: original-data hash, exact cleaning result, no duplicate or missing cells
+PASS: train/test separation and scaler statistics fitted only on training records
+PASS: saved model predictions reproduce reported test metrics and CV selection
+PASS: batch inference and rejection of missing, extra, nonfinite, out-of-range and unknown fields
+ALL CHECKS PASSED

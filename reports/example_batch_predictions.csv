@@ -1,0 +1,6 @@
+age,sex,bmi,children,smoker,region,predicted_charges_usd
+58,female,27.17,0,no,northwest,12083.7
+46,male,25.8,5,no,southwest,9642.64
+54,male,30.8,1,yes,southeast,42257.38
+30,male,28.69,3,yes,northwest,20372.69
+33,female,18.5,1,no,southwest,5162.31

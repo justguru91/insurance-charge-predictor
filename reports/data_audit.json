@@ -1,0 +1,33 @@
+{
+  "raw_rows": 1338,
+  "clean_rows": 1337,
+  "duplicates_removed": 1,
+  "incomplete_rows_removed": 0,
+  "raw_missing_cells": 0,
+  "clean_missing_cells": 0,
+  "features": [
+    "age",
+    "sex",
+    "bmi",
+    "children",
+    "smoker",
+    "region"
+  ],
+  "target": "charges",
+  "source_sha256": "505c1cbc2e63d0363bac59501563df2530aadf4cdb9cfee226f4ef32f5468281",
+  "numeric_ranges": {
+    "age": {
+      "min": 18.0,
+      "max": 64.0
+    },
+    "bmi": {
+      "min": 15.96,
+      "max": 53.13
+    },
+    "children": {
+      "min": 0.0,
+      "max": 5.0
+    }
+  },
+  "outlier_policy": "Retain finite nonnegative charges. High costs may be meaningful; no arbitrary trimming."
+}

@@ -1,0 +1,7 @@
+PASS: local page and health endpoint
+PASS: individual profile inference
+PASS: invalid input and malformed JSON rejected
+PASS: five-row CSV batch inference
+PASS: duplicate/missing CSV columns rejected
+PASS: oversized request rejected
+PASS: browser CSV download contains five predictions

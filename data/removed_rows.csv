@@ -1,0 +1,2 @@
+source_row_id,age,sex,bmi,children,smoker,region,charges,reason
+581,19,male,30.59,0,no,northwest,1639.5631,exact duplicate
